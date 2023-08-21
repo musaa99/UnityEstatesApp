@@ -7,7 +7,7 @@ export default function Home() {
 
 	
 	return (
-		<div className='bg-black py-[14px]'>
+		<div className=''>
 
 			<Hero/>
 		</div>
